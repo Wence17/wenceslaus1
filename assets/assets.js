@@ -11,11 +11,10 @@ import figma from './figma.png';
 import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
-import logo from './logo.png'; // delete
 import logo_dark from './logo_dark.png';
 import mail_icon from './mail_icon.png';
 import mail_icon_dark from './mail_icon_dark.png';
-import profile_img from './profile-img.png';
+import profile_img from './profile_img.png';
 import download_icon from './download-icon.png';
 import hand_icon from './hand-icon.png';
 import header_bg_color from './header-bg-color.png';
@@ -50,7 +49,6 @@ export const assets = {
     git,
     mongodb,
     right_arrow_white,
-    logo, // delete
     logo_dark,
     mail_icon,
     mail_icon_dark,
