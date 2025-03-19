@@ -11,6 +11,9 @@
   --font-outfit: Outfit, sans-serif;
   --font-ovo: Ovo, serif;
 
+  /* box shadow */
+  --shadow-black: 4px 4px 0 #000;
+  --shadow-white: 4px 4px 0 #fff;
 
   /* Easing
   --ease-fluid: cubic-bezier(0.3, 0, 0, 1);
