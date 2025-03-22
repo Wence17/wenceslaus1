@@ -6,8 +6,11 @@ import edu_icon_dark from './edu-icon-dark.png';
 import project_icon from './project-icon.png';
 import project_icon_dark from './project-icon-dark.png';
 import vscode from './vscode.png';
-import firebase from './firebase.png';
-import figma from './figma.png';
+import react from './react.png';
+import node from './nodejs.png';
+import javaScript from './javascript.png';
+import expressjs from './expressjs.png';
+import typescript from './typescript.png';
 import git from './git.png';
 import mongodb from './mongodb.png';
 import right_arrow_white from './right-arrow-white.png';
@@ -44,8 +47,11 @@ export const assets = {
     project_icon,
     project_icon_dark,
     vscode,
-    firebase,
-    figma,
+    react,
+    node,
+    javaScript,
+    expressjs,
+    typescript,
     git,
     mongodb,
     right_arrow_white,
@@ -111,5 +117,5 @@ export const infoList = [
 ];
 
 export const toolsData = [
-    assets.vscode, assets.firebase, assets.mongodb, assets.figma, assets.git
+    assets.vscode, assets.mongodb, assets.expressjs, assets.javaScript, assets.node, assets.react, assets.typescript, assets.git
 ];
