@@ -10,7 +10,7 @@ const ovo = Ovo({
 });
 
 export const metadata = {
-  title: "Portfolio - Wenceslaus",
+  title: "POP",
   description: "Expert full-stack web developer with experience in React, Next.js, and blockchain development. View my projects, skills, and insights on modern web technologies.",
 };
 

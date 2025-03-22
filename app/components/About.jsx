@@ -53,10 +53,10 @@ const About = ({ isDarkMode }) => {
           className="flex-1"
         >
           <p className="mb-10 max-w-2xl font-ovo text-justify">
-            I am a skilled Frontend Developer with expertise in React and
-            Next.js. Also, I am dedicated to delivering exceptional digital
-            experiences, with experienced in leading projects, customer
-            relations, problem-solving, and collaborating with teams to deliver
+            I am Obimka Somtochukwu, Wenceslaus, a Software Developer with expertise in React and
+            Next.js. I am dedicated to delivering exceptional digital
+            experiences, with experience in leading projects, customer
+            relations, and collaborating with teams to deliver
             high-quality products.
           </p>
           <motion.ul
